@@ -1,0 +1,797 @@
+# English translations for WP InPlayer Paywall package.
+# Copyright (C) 2016 InPlayer
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: inplayer-paywall 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-09-22 18:28+0100\n"
+"PO-Revision-Date: 2016-09-22 18:45+0100\n"
+"Last-Translator: InPlayer PHP Team <info@inplayer.com>\n"
+"Language-Team: InPlayer PHP Team\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr_e;esc_attr__;esc_html__;esc_html_e;_x;"
+"_n\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../inplayer/includes/AssetsListTable.php:21
+msgid "Title"
+msgstr ""
+
+#: ../inplayer/includes/AssetsListTable.php:22
+#: ../inplayer/includes/TransactionsListTable.php:24
+#: ../inplayer/views/item/shortcodes-list.php:7
+msgid "Asset ID"
+msgstr ""
+
+#: ../inplayer/includes/AssetsListTable.php:23
+#: ../inplayer/views/item/shortcodes-list.php:8
+msgid "Asset Type"
+msgstr ""
+
+#: ../inplayer/includes/AssetsListTable.php:24
+msgid "Shortcode"
+msgstr ""
+
+#: ../inplayer/includes/AssetsListTable.php:25
+msgid ""
+"To display your item, just copy the generated shortcode to any page or post "
+"you like"
+msgstr ""
+
+#: ../inplayer/includes/AssetsListTable.php:27
+msgid "Item Status"
+msgstr ""
+
+#: ../inplayer/includes/AssetsListTable.php:28
+#: ../inplayer/views/payments/transaction-details.php:13
+msgid "Date"
+msgstr ""
+
+#: ../inplayer/includes/AssetsListTable.php:29
+msgid "Action"
+msgstr ""
+
+#: ../inplayer/includes/AssetsListTable.php:85
+msgid "No Assets has been created yet."
+msgstr ""
+
+#: ../inplayer/includes/InPlayerAdmin.php:122
+#: ../inplayer/includes/InPlayerAdmin.php:220
+#: ../inplayer/includes/InPlayerAdmin.php:283
+#: ../inplayer/includes/InPlayerAdmin.php:284
+#: ../inplayer/includes/InPlayerAdmin.php:299
+#: ../inplayer/views/transactions.php:21
+msgid "InPlayer PayWall"
+msgstr ""
+
+#: ../inplayer/includes/InPlayerAdmin.php:155
+#: ../inplayer/views/payments/methods.php:14
+msgid "Connect your PayPal account"
+msgstr ""
+
+#: ../inplayer/includes/InPlayerAdmin.php:179
+msgid "Change Password"
+msgstr ""
+
+#: ../inplayer/includes/InPlayerAdmin.php:189
+#: ../inplayer/views/account/ovp-ooyala.php:7
+msgid "OVP Accounts"
+msgstr ""
+
+#: ../inplayer/includes/InPlayerAdmin.php:219
+msgid "InPlayer Platform Integration"
+msgstr ""
+
+#: ../inplayer/includes/InPlayerAdmin.php:230
+#: ../inplayer/views/item/asset.php:11
+msgid "InPlayer Assets"
+msgstr ""
+
+#: ../inplayer/includes/InPlayerAdmin.php:231
+msgid "All Assets"
+msgstr ""
+
+#: ../inplayer/includes/InPlayerAdmin.php:242
+msgid "InPlayer Asset"
+msgstr ""
+
+#: ../inplayer/includes/InPlayerAdmin.php:243
+msgid "Add Asset"
+msgstr ""
+
+#: ../inplayer/includes/InPlayerAdmin.php:254
+#: ../inplayer/includes/InPlayerAdmin.php:255
+#: ../inplayer/views/transactions.php:21
+msgid "Transactions"
+msgstr ""
+
+#: ../inplayer/includes/InPlayerAdmin.php:267
+msgid "InPlayer Paywall Settings"
+msgstr ""
+
+#: ../inplayer/includes/InPlayerAdmin.php:268
+msgid "Settings"
+msgstr ""
+
+#: ../inplayer/includes/InPlayerAdmin.php:298
+msgid "InPlayer PayWall Setup"
+msgstr ""
+
+#: ../inplayer/includes/InPlayerAdmin.php:310
+#: ../inplayer/includes/InPlayerAdmin.php:311
+#: ../inplayer/views/form-login.php:38
+msgid "Login"
+msgstr ""
+
+#: ../inplayer/includes/InPlayerAdmin.php:324
+msgid "InPlayer ToC"
+msgstr ""
+
+#: ../inplayer/includes/InPlayerAdmin.php:325
+msgid "Terms & Conditions"
+msgstr ""
+
+#: ../inplayer/includes/InPlayerAdmin.php:336
+#: ../inplayer/views/form-activate.php:6
+#: ../inplayer/views/form-activate.php:28
+msgid "Activate Your Merchant Account"
+msgstr ""
+
+#: ../inplayer/includes/InPlayerAdmin.php:337
+msgid "Activate Account"
+msgstr ""
+
+#: ../inplayer/includes/InPlayerForms.php:12
+#: ../inplayer/includes/InPlayerForms.php:81
+msgid "Please try again."
+msgstr ""
+
+#: ../inplayer/includes/InPlayerForms.php:44
+msgid "Failed to execute. Please try again."
+msgstr ""
+
+#: ../inplayer/includes/InPlayerForms.php:60
+msgid "Login failed."
+msgstr ""
+
+#: ../inplayer/includes/InPlayerForms.php:103
+msgid "Password change failed."
+msgstr ""
+
+#: ../inplayer/includes/InPlayerForms.php:125
+msgid "Password reset request failed."
+msgstr ""
+
+#: ../inplayer/includes/InPlayerForms.php:147
+msgid "Password reset failed."
+msgstr ""
+
+#: ../inplayer/includes/InPlayerForms.php:169
+msgid "Failed to save."
+msgstr ""
+
+#: ../inplayer/includes/InPlayerForms.php:191
+#: ../inplayer/includes/InPlayerForms.php:224
+msgid "Payment Method verification failed."
+msgstr ""
+
+#: ../inplayer/includes/InPlayerForms.php:412
+msgid "Sorry, your email or password was incorrect. Please try again."
+msgstr ""
+
+#: ../inplayer/includes/InPlayerForms.php:436
+msgid "No Assets Found"
+msgstr ""
+
+#: ../inplayer/includes/InPlayerForms.php:458
+msgid "Some access fee values are invalid."
+msgstr ""
+
+#: ../inplayer/includes/InPlayerForms.php:491
+msgid "Access Fee removal failed"
+msgstr ""
+
+#: ../inplayer/includes/TransactionsListTable.php:21
+#: ../inplayer/views/item/shortcodes-list.php:6
+msgid "Asset Title"
+msgstr ""
+
+#: ../inplayer/includes/TransactionsListTable.php:22
+msgid "Type"
+msgstr ""
+
+#: ../inplayer/includes/TransactionsListTable.php:23
+msgid "Date Time"
+msgstr ""
+
+#: ../inplayer/includes/TransactionsListTable.php:25
+msgid "Gross Amount"
+msgstr ""
+
+#: ../inplayer/includes/TransactionsListTable.php:26
+msgid "Earning"
+msgstr ""
+
+#: ../inplayer/includes/TransactionsListTable.php:27
+msgid "Payout"
+msgstr ""
+
+#: ../inplayer/includes/TransactionsListTable.php:28
+#: ../inplayer/includes/TransactionsListTable.php:192
+msgid "Transaction Details"
+msgstr ""
+
+#: ../inplayer/includes/TransactionsListTable.php:81
+msgid "No transactions recorded."
+msgstr ""
+
+#: ../inplayer/includes/TransactionsListTable.php:139
+#: ../inplayer/views/payments/widget-balance.php:26
+msgid "Withdraw"
+msgstr ""
+
+#: ../inplayer/includes/TransactionsListTable.php:145
+msgid "(deleted asset)"
+msgstr ""
+
+#: ../inplayer/includes/TransactionsListTable.php:193
+msgid "Click for more"
+msgstr ""
+
+#: ../inplayer/views/form-register.php:4
+msgid "Create your InPlayer account"
+msgstr ""
+
+#: ../inplayer/views/form-register.php:13
+msgid "Your full name"
+msgstr ""
+
+#: ../inplayer/views/form-register.php:15
+msgid "Enter your full name"
+msgstr ""
+
+#: ../inplayer/views/form-register.php:18 ../inplayer/views/form-login.php:24
+msgid "Your email"
+msgstr ""
+
+#: ../inplayer/views/form-register.php:20
+msgid "Enter your email address"
+msgstr ""
+
+#: ../inplayer/views/form-register.php:23
+msgid "Choose password"
+msgstr ""
+
+#: ../inplayer/views/form-register.php:25
+#: ../inplayer/views/form-register.php:28
+#: ../inplayer/views/account/change-password.php:27
+#: ../inplayer/views/account/change-password.php:28
+msgid "Minimum 8 characters"
+msgstr ""
+
+#: ../inplayer/views/form-register.php:31
+msgid "Confirm your password"
+msgstr ""
+
+#: ../inplayer/views/form-register.php:33
+#: ../inplayer/views/account/change-password.php:36
+msgid "Please enter the same password as above"
+msgstr ""
+
+#: ../inplayer/views/form-register.php:35
+#: ../inplayer/views/account/change-password.php:38
+msgid "Please re-enter your password"
+msgstr ""
+
+#: ../inplayer/views/form-register.php:42
+msgid "Create Account"
+msgstr ""
+
+#: ../inplayer/views/setup-welcome.php:3
+msgid "text_plugin_setup_welcome"
+msgstr ""
+"<h2>So close...</h2><p>You are almost ready to start making money on your "
+"premium content. Click on \"Login\" or “Register Account” to get started.</p>"
+
+#: ../inplayer/views/transactions.php:37
+msgid "Payment History"
+msgstr ""
+
+#: ../inplayer/views/transactions.php:38
+msgid "text_payment_history_explain"
+msgstr ""
+"The table below lists the payments that were made to your account. You can "
+"Click on \"Transaction Details\" for each record\t\tin the table for more "
+"detailed information about the payment."
+
+#: ../inplayer/views/form-login.php:4
+msgid "text_login_and_toc"
+msgstr ""
+"InPlayer Paywall lets you make money on your premium content. All you need "
+"is an InPlayer account and a PayPal account to get going. When creating a "
+"new account you agree to our <a href=\"https://inplayer.com/terms/\" target="
+"\"_blank\" rel=\"noopener\">Terms And Conditions</a>."
+
+#: ../inplayer/views/form-login.php:9
+msgid "Login to your InPlayer account"
+msgstr ""
+
+#: ../inplayer/views/form-login.php:10
+msgid ""
+"Do you already have an account? Log in here (you only have to do this once)"
+msgstr ""
+
+#: ../inplayer/views/form-login.php:28
+msgid "Password"
+msgstr ""
+
+#: ../inplayer/views/form-options.php:1
+msgid "Options page"
+msgstr ""
+
+#: ../inplayer/views/toc.php:2
+msgid "Terms And Conditions"
+msgstr ""
+
+#: ../inplayer/views/toc.php:3
+msgid "text_terms_and_conditions"
+msgstr ""
+"InPlayer Paywall lets you make money on your premium content. All you need "
+"is an InPlayer account and a PayPal account to get going. When creating a "
+"new account you agree to our <a href=\"https://inplayer.com/terms/\" target="
+"\"_blank\" rel=\"noopener\">Terms And Conditions</a>."
+
+#: ../inplayer/views/form-activate.php:7
+msgid "text_account_activation_explain"
+msgstr ""
+"<p> Please check your email for the confirmation code </p><p>InPlayer will "
+"send the confirmation code on the email address you've provided for your "
+"merchant account. </p><p>Simply copy and paste it in the edit box and press "
+"\"Activate Your Merchant Account\" button to finalize the activation process."
+"</p>"
+
+#: ../inplayer/views/form-activate.php:17
+msgid "Confirmation code"
+msgstr ""
+
+#: ../inplayer/views/form-activate.php:20
+msgid "Add your activation code"
+msgstr ""
+
+#: ../inplayer/views/inplayer-about.php:3
+msgid "text_about_inplayer"
+msgstr ""
+"<h2>About InPlayer</h2><p>InPlayer is a global leader in providing solutions "
+"for digital publishers who wish to protect and monetise their content via a "
+"paywall or registration layer.</p><p>Thank you for using our paywall "
+"solution!</p><h2>About InPlayer Paywall WordPress Plugin</h2><p>The InPlayer "
+"Paywall plugin is a simple way for integrating your wordpress website with "
+"the InPlayer platform which provides you set of features for protecting and "
+"monetizing digital content. With this plugin you can add a monetisation "
+"layer on top of any type of content. Add a video or any premium content as "
+"an asset, choose what amount you would like to get paid for it and publish. "
+"This will give you a shortcode that you can add to any page or post on your "
+"site.</p><p>Unlike other paywall solutions, InPlayer hides whatever you wish "
+"to protect and does not present it to the user until they have paid.</"
+"p><p>So far we support USD, GBP and EUR but will soon be adding support for "
+"more currencies, payment types and premium features. Let us know what you "
+"would like to see by sending an email to <a href=\"mailto:support@inplayer."
+"com\">support@inplayer.com</a>.</p>"
+
+#: ../inplayer/views/form-forgot-password.php:3
+msgid "Forgot password"
+msgstr ""
+
+#: ../inplayer/views/form-forgot-password.php:14
+msgid "Your Merchant Email Address"
+msgstr ""
+
+#: ../inplayer/views/form-forgot-password.php:17
+msgid "Please enter your merchant email address"
+msgstr ""
+
+#: ../inplayer/views/form-forgot-password.php:24
+#: ../inplayer/views/form-forgot-password.php:36
+#: ../inplayer/views/form-forgot-password.php:63
+msgid "Reset password"
+msgstr ""
+
+#: ../inplayer/views/form-forgot-password.php:46
+msgid "Your New Password"
+msgstr ""
+
+#: ../inplayer/views/form-forgot-password.php:49
+msgid "Please enter your new password"
+msgstr ""
+
+#: ../inplayer/views/form-forgot-password.php:53
+msgid "Confirm Your New Password"
+msgstr ""
+
+#: ../inplayer/views/form-forgot-password.php:56
+msgid "Please confirm your enter your new password"
+msgstr ""
+
+#: ../inplayer/views/settings-index.php:2
+msgid "General Settings"
+msgstr ""
+
+#: ../inplayer/views/settings-index.php:7
+msgid "Receiving Payments"
+msgstr ""
+
+#: ../inplayer/views/settings-index.php:8
+msgid "Accounts"
+msgstr ""
+
+#: ../inplayer/views/settings-index.php:9
+msgid "About"
+msgstr ""
+
+#: ../inplayer/views/account/ovp-ooyala.php:8
+msgid "Connect your Ooyala account"
+msgstr ""
+
+#: ../inplayer/views/account/ovp-ooyala.php:16
+msgid "API Secret"
+msgstr ""
+
+#: ../inplayer/views/account/ovp-ooyala.php:21
+#: ../inplayer/views/account/ovp-ooyala.php:33
+msgid "Show"
+msgstr ""
+
+#: ../inplayer/views/account/ovp-ooyala.php:22
+#: ../inplayer/views/account/ovp-ooyala.php:34
+msgid "Hide"
+msgstr ""
+
+#: ../inplayer/views/account/ovp-ooyala.php:28
+msgid "API Key"
+msgstr ""
+
+#: ../inplayer/views/account/ovp-ooyala.php:44
+msgid "Update"
+msgstr ""
+
+#: ../inplayer/views/account/change-password.php:5
+msgid "InPlayer Account"
+msgstr ""
+
+#: ../inplayer/views/account/change-password.php:6
+msgid "Change your password"
+msgstr ""
+
+#: ../inplayer/views/account/change-password.php:14
+msgid "Your Password"
+msgstr ""
+
+#: ../inplayer/views/account/change-password.php:18
+msgid "Please enter your old password"
+msgstr ""
+
+#: ../inplayer/views/account/change-password.php:23
+msgid "New Password"
+msgstr ""
+
+#: ../inplayer/views/account/change-password.php:26
+msgid "Please enter a new password"
+msgstr ""
+
+#: ../inplayer/views/account/change-password.php:31
+msgid "Password Confirmation"
+msgstr ""
+
+#: ../inplayer/views/account/change-password.php:34
+msgid "Please confirm your new password"
+msgstr ""
+
+#: ../inplayer/views/account/change-password.php:47
+msgid "Change password"
+msgstr ""
+
+#: ../inplayer/views/item/edit-asset.php:9
+msgid "Edit InPlayer Premium Asset"
+msgstr ""
+
+#: ../inplayer/views/item/edit-asset.php:10
+#: ../inplayer/views/item/asset.php:11
+msgid "Add New"
+msgstr ""
+
+#: ../inplayer/views/item/edit-asset.php:12
+msgid "Create InPlayer Premium Asset"
+msgstr ""
+
+#: ../inplayer/views/item/edit-asset.php:25
+msgid "Enter title here"
+msgstr ""
+
+#: ../inplayer/views/item/edit-asset.php:40
+msgid "Set your price"
+msgstr ""
+
+#: ../inplayer/views/item/edit-asset.php:47
+msgid "Asset Preview Template"
+msgstr ""
+
+#: ../inplayer/views/item/edit-asset.php:61
+msgid "This asset Shortcode:"
+msgstr ""
+
+#: ../inplayer/views/item/edit-asset.php:69
+msgid "Publish Asset:"
+msgstr ""
+
+#: ../inplayer/views/item/edit-asset.php:74
+msgid "Reactivate Asset"
+msgstr ""
+
+#: ../inplayer/views/item/edit-asset.php:78
+#: ../inplayer/views/item/edit-asset.php:85
+msgid "Publish Asset"
+msgstr ""
+
+#: ../inplayer/views/item/edit-asset.php:81
+msgid "Delete Asset"
+msgstr ""
+
+#: ../inplayer/views/item/create-asset.php:2
+msgid "Add New InPlayer Premium Asset"
+msgstr ""
+
+#: ../inplayer/views/item/create-asset.php:11
+msgid "What type of asset would you like to sell?"
+msgstr ""
+
+#: ../inplayer/views/item/preview-image.php:8
+msgid "Asset Preview Image"
+msgstr ""
+
+#: ../inplayer/views/item/preview-image.php:9
+msgid "text_preview_image_explain"
+msgstr ""
+"This field displays an image in place of the asset you wish to protect.  Use "
+"the <i>Upload Image</i> button below or enter a valid image URL in the box "
+"below to select an image of your choice.  We recommend that images should be "
+"in 16:9 aspect ratio with a minimum width of 640 pixels.  If you do not "
+"choose an image a default placeholder will be chosen for you. You can edit "
+"this image at any time."
+
+#: ../inplayer/views/item/preview-image.php:12
+msgid "Attach a preview image"
+msgstr ""
+
+#: ../inplayer/views/item/preview-image.php:14
+msgid "Upload Image"
+msgstr ""
+
+#: ../inplayer/views/item/description.php:2
+msgid "Asset Preview Description"
+msgstr ""
+
+#: ../inplayer/views/item/description.php:3
+msgid "text_preview_asset_explain"
+msgstr ""
+"This field allows you to describe what content you are protecting and "
+"appears beneath the <i>Asset Preview Image</i>."
+
+#: ../inplayer/views/item/description.php:7
+msgid "Enter asset description"
+msgstr ""
+
+#: ../inplayer/views/item/shortcodes-list.php:1
+msgid ""
+"Click on a Asset title to insert the generated Shortcode in your post/page"
+msgstr ""
+
+#: ../inplayer/views/item/shortcodes-list.php:9
+msgid "Asset Shortcode"
+msgstr ""
+
+#: ../inplayer/views/item/asset-types.php:5
+msgid "HTML / TEXT"
+msgstr ""
+
+#: ../inplayer/views/item/asset-types.php:6
+msgid "Create an article by adding custom HTML or text in our editor."
+msgstr ""
+
+#: ../inplayer/views/item/asset-types.php:13
+msgid "VIDEO"
+msgstr ""
+
+#: ../inplayer/views/item/asset-types.php:14
+msgid "Choose from videos stored with a connected platform (OVP)."
+msgstr ""
+
+#: ../inplayer/views/item/asset.php:14
+msgid "Display:"
+msgstr ""
+
+#: ../inplayer/views/item/asset.php:16
+msgid "Published Assets"
+msgstr ""
+
+#: ../inplayer/views/item/asset.php:17
+msgid "Deleted Assets"
+msgstr ""
+
+#: ../inplayer/views/item/access-fees.php:25
+msgid "Create New Access Fee"
+msgstr ""
+
+#: ../inplayer/views/item/access-fees.php:29
+#: ../inplayer/views/item/access-fees.php:30
+#: ../inplayer/views/item/access-fees.php:50
+#: ../inplayer/views/item/access-fees.php:51
+msgid "Enter description"
+msgstr ""
+
+#: ../inplayer/views/item/access-fees.php:38
+#: ../inplayer/views/item/access-fees.php:60
+msgid "Remove"
+msgstr ""
+
+#: ../inplayer/views/item/shortcode.php:9
+msgid "Shortcode Options"
+msgstr ""
+
+#: ../inplayer/views/item/shortcode.php:11
+msgid "Options"
+msgstr ""
+
+#: ../inplayer/views/item/shortcode.php:14
+msgid "text_shortcode_copy_explain"
+msgstr ""
+"The embed code for the Premium Asset is created. Copy and paste the "
+"following shortcode on any location of your posts."
+
+#: ../inplayer/views/item/shortcode.php:17
+msgid "Done"
+msgstr ""
+
+#: ../inplayer/views/item/shortcode.php:23
+msgid "The InPlayer asset had been deleted/not yet created."
+msgstr ""
+
+#: ../inplayer/views/item/html_asset/editor.php:1
+msgid "HTML Asset Content"
+msgstr ""
+
+#: ../inplayer/views/item/html_asset/editor.php:4
+msgid ""
+"Enter the asset you wish to protect in the HTML editor. This can be a video "
+"link, text, or any\n"
+"\t\tembeddable content."
+msgstr ""
+
+#: ../inplayer/views/item/ooyala_asset/editor.php:8
+msgid "Your Ooyala Asset"
+msgstr ""
+
+#: ../inplayer/views/item/ooyala_asset/editor.php:13
+msgid "Choose your video from this list"
+msgstr ""
+
+#: ../inplayer/views/item/ooyala_asset/editor.php:15
+msgid "please select a video"
+msgstr ""
+
+#: ../inplayer/views/item/ooyala_asset/editor.php:28
+msgid ""
+"In order to create Ooyala asset please check your OVP Accounts in InPlayer "
+"Paywall Settings – Accounts"
+msgstr ""
+
+#: ../inplayer/views/payments/methods.php:5
+msgid "Please note!"
+msgstr ""
+
+#: ../inplayer/views/payments/methods.php:6
+msgid "text_connect_to_paypal"
+msgstr "You need to connect your PayPal account before you can continue."
+
+#: ../inplayer/views/payments/methods.php:24
+msgid "PayPal account email"
+msgstr ""
+
+#: ../inplayer/views/payments/methods.php:32
+msgid "Please enter your valid PayPal account"
+msgstr ""
+
+#: ../inplayer/views/payments/methods.php:34
+msgid "This has to be an active PayPal account email"
+msgstr ""
+
+#: ../inplayer/views/payments/methods.php:39
+msgid "First Name"
+msgstr ""
+
+#: ../inplayer/views/payments/methods.php:47
+msgid "Last Name"
+msgstr ""
+
+#: ../inplayer/views/payments/methods.php:58
+msgid "Connect account"
+msgstr ""
+
+#: ../inplayer/views/payments/widget-transactions.php:2
+msgid "Total Gross Transactions"
+msgstr ""
+
+#: ../inplayer/views/payments/widget-transactions.php:8
+msgid "No Transactions"
+msgstr ""
+
+#: ../inplayer/views/payments/widget-balance.php:2
+msgid "Available Balance"
+msgstr ""
+
+#: ../inplayer/views/payments/widget-balance.php:8
+#: ../inplayer/views/payments/widget-purchases.php:16
+msgid "No Purchases"
+msgstr ""
+
+#: ../inplayer/views/payments/active-method.php:1
+msgid "text_setup_paypal_account"
+msgstr ""
+"<p>In order to receive money from everything you sale, you need to connect a "
+"PayPal account. Once you provide your PayPal account details we will verify "
+"and link your InPlayer account with PayPal.</p><p>Please be sure that you "
+"are able to receive money on your PayPal account before using the InPlayer "
+"paywall. You can find more details about PayPal account options per country "
+"on this link <a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_display-"
+"country-functionality-outside\">https://www.paypal.com/cgi-bin/webscr?"
+"cmd=_display-country-functionality-outside</a></p><p>You can withdraw money "
+"from your collected InPlayer funds in the transactions part of the plugin. "
+"The minimum amount for withdrawal is 50 EUR/USD/GBP.</p>"
+
+#: ../inplayer/views/payments/widget-purchases.php:3
+msgid "1-time"
+msgstr ""
+
+#: ../inplayer/views/payments/widget-purchases.php:4
+msgid "Subscriptions"
+msgstr ""
+
+#: ../inplayer/views/payments/widget-purchases.php:10
+msgid "Total Purchases"
+msgstr ""
+
+#: ../inplayer/views/payments/transaction-details.php:5
+msgid "Something went wrong while communicating with the InPlayer API"
+msgstr ""
+
+#: ../inplayer/views/payments/transaction-details.php:7
+msgid "No records found"
+msgstr ""
+
+#: ../inplayer/views/payments/transaction-details.php:9
+msgid ""
+"Bellow you can see more details for all the transactions for this purchase:"
+msgstr ""
+
+#: ../inplayer/views/payments/transaction-details.php:18
+msgid "Transaction Description"
+msgstr ""
+
+#: ../inplayer/views/payments/transaction-details.php:19
+msgid "Amount"
+msgstr ""
+
+#~ msgid "text_asset_updated_explain"
+#~ msgstr ""
+#~ "Your Asset is protected by InPlayer. To start using it, copy the "
+#~ "<b>Shortcode</b> generated below in the top right corner and paste it "
+#~ "into the post you want to publish."
